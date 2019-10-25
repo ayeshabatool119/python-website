@@ -24,4 +24,6 @@ git branch
 git branch 'name'
 
 git checkout 'branchname'
+
+git merge 'branch name'
 -->
