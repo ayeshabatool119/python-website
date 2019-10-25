@@ -1,14 +1,15 @@
 
 <!--
+
 git clone url
 
-cd --directory--
+cd 'directory'
 
-touch --creat a file--
+touch 'creat a file'
 
-git add --file name--
+git add 'file name'
 
-git commit -m --message--
+git commit -m 'message'
 
 git push
 
@@ -16,6 +17,7 @@ git pull
 
 git log
 
-git reset --hard --value--
+git reset --hard 'value'
+
 
 -->
