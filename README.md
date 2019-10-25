@@ -19,5 +19,9 @@ git log
 
 git reset --hard 'value'
 
+git branch
 
+git branch 'name'
+
+git checkout 'branchname'
 -->
